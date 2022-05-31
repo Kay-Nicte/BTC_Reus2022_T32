@@ -1,0 +1,22 @@
+body {
+    background-image: url("../IMG/background.jpg");
+}
+
+h2 {
+    color: white;
+}
+
+.contenedorInicio,
+.cabeceraInicio {
+    border-radius: 9px;
+}
+
+.cabeceraInicio {
+    padding-top: 2%;
+    color: rgb(122, 121, 121);
+}
+
+#lorem,
+#pRedes {
+    color: white;
+}
